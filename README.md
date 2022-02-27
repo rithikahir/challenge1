@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-OUTPUT :- https://rithikahir.github.io/challenge1/
+OUTPUT :- 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
