@@ -43,7 +43,7 @@ p{
 }
 
 /************* Mobile view **************/
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 390px) {
     #outer-container{
         margin-left: -7%;
         
@@ -52,7 +52,7 @@ p{
         padding-left:-50%;
     }
 
-@media (min-width:10px) and (max-width: 350px) {
+@media (min-width:10px) and (max-width: 370px) {
     #outer-container{
         margin-left: -10%;
     }
